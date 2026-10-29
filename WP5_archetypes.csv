@@ -1,0 +1,22 @@
+species_group,archetype,dispersal_mode,drift_duration_average,drift_duration_min,drift_duration_max,season,description
+invertebrates,INV-1,active,NA,NA,NA,NA,"Direct developer / local benthic mover. Brooded/direct developers with no pelagic larva; realized movement by crawling, burrowing, swimming or occasional vector-assisted transport."
+invertebrates,INV-2,active,NA,NA,NA,NA,"Direct developer / algal resident rafter. Brooded/direct developers associated with macroalgae, vegetation or epifauna and able to raft with detached algae/plants."
+invertebrates,INV-3,passive,10,8,12,"4,5,6,7,8",Sessile epifauna with very short propagules. Sessile colonies or attached fauna with very short larval stage; realized spread can be extended by fragments or rafting.
+invertebrates,INV-4,passive,10,8,12,"4,5,6,7,8","Short pelagic / benthic-retained propagules. Short-lived larval or propagule phase, often with near-bottom retention and moderate passive dispersal."
+invertebrates,INV-5,passive,20,17,23,"4,5,6,7,8",Medium pelagic larval disperser. Typical meroplanktonic dispersers with weeks-long larval phase.
+invertebrates,INV-6,passive,50,44,56,"1,2,3,4,5,6,7,8,9,10,11,12",Long pelagic larval disperser. Long-lived planktonic larvae allow broad passive dispersal.
+invertebrates,INV-7,passive,50,44,56,"4,5,6,7,8,9",Very long pelagic larval disperser. Extended pelagic development producing very large dispersal potential.
+invertebrates,INV-8,passive,50,44,56,"4,5,6,7,8,9,10",Holoplanktonic / medusa drifter. Dispersal dominated by prolonged pelagic medusa/ephyra phase rather than a short benthic larva.
+invertebrates,INV-9,passive,20,17,23,"6,7,8,9,10",Host-mediated freshwater mussel. Freshwater mussels with fish-host transport during the larval stage.
+fish,FISH-1,active/passive,10,8,12,"11,12,1,2,3,4",Spawns in winter/spring and has no or short pelagic larval stage/duration
+fish,FISH-2,passive,30,26,34,"11,12,1,2,3,4",Spawns in winter/spring and has medium pelagic larval stage/duration
+fish,FISH-3,passive,50,44,56,"11,12,1,2,3,4",Spawns in winter/spring and has long pelagic larval stage/duration
+fish,FISH-4,active/passive,10,8,12,"5,6,7,8,9,10",Spawns in summer/early autumn and has no or short pelagic larval stage/duration
+fish,FISH-5,passive,30,26,34,"5,6,7,8,9,10",Spawns in summer/early autumn and has medium pelagic larval stage/duration
+fish,FISH-6,passive,50,44,56,"5,6,7,8,9,10",Spawns in summer/early autumn and has long pelagic larval stage/duration
+fish,FISH-7,active,NA,NA,NA,NA,Migrates up rivers to spawn. No connectivity model for this species
+macrophytes,MACRO-1,passive,10,8,12,"6,7,8,9,10,11","Short-lived or sinking propagules that settle close to the parent. ALL ALGAE take M1 as the primary pathway, because spores are their primary dispersal unit; drifting thalli or fragments are recorded as a secondary pathway (M4 for durable leathery or calcified taxa, M5 for filamentous and soft ones). Also covers charophytes (oospores and bulbils), turion-forming plants, and seeds that sink within hours."
+macrophytes,MACRO-2,passive,20,17,23,"7,8,9,10,11",Angiosperm seeds and fruits that lack a pronounced floating adaptation.
+macrophytes,MACRO-3,passive,40,35,45,"7,8,9,10,11","Seeds and fruits with aerenchyma, air-filled pericarp or corky testa built for extended surface transport, and free-floating plants."
+macrophytes,MACRO-4,passive,50,44,56,"6,7,8,9,10,11","Fragments of thick, leathery perennial algae or robust vascular plants that resist breakdown and herbivory."
+macrophytes,MACRO-5,passive,20,17,23,"6,7,8,9,10,11","Floating fragments of soft, filamentous annual algae or sensitive vascular plants that decompose rapidly. The largest group."

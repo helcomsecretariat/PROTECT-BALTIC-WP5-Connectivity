@@ -1,0 +1,16 @@
+# ---- Data (large / generated; not versioned) ----
+inputs/sdms/
+inputs/sdms_PBS_EFH/
+inputs/hex_grid/
+outputs/
+_run_log/
+
+# ---- R / RStudio ----
+.Rproj.user/
+.Rhistory
+.RData
+.Ruserdata
+
+# ---- OS ----
+.DS_Store
+Thumbs.db
